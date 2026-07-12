@@ -20,7 +20,8 @@ Built using Power BI for data modeling and React for the frontend.
 - **HTML/CSS** - Styling
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](./dashboard-screenshot.png)
+## 📸 Dashboard Preview
+![Dashboard Screenshot](./Screenshot%202026-07-12%20181055.png)
 
 ## 🚀 Live Interactive Demo
 [View Dashboard on Claude](https://claude.ai/public/artifacts/120a8b4d-6e7d-4561-a7ad-cdcca4a1bd19)
