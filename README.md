@@ -18,8 +18,7 @@ Built using Power BI for data modeling and React for the frontend.
 - **React.js** - Frontend Framework
 - **Recharts** - Interactive Charts
 - **HTML/CSS** - Styling
-
-## 📸 Dashboard Preview
+-
 ## 📸 Dashboard Preview
 ![Dashboard Screenshot](./Screenshot%202026-07-12%20181055.png)
 
