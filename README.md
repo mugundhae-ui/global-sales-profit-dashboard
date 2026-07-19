@@ -27,4 +27,4 @@ Built using Power BI for data modeling and React for the frontend.
 3. Open `http://localhost:3000`
 
 ## 🤝 Connect
-[LinkedIn Profile](https://www.linkedin.com/in/mugundhan-e)
+[LinkedIn Profile](https://www.linkedin.com/in/mugundhan--e)
